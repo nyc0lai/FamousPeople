@@ -1,0 +1,29 @@
+body {
+    position: relative;
+}
+
+#container {
+    padding-top: 2em;
+    margin: auto;
+    justify-content: center;
+    border-bottom: none;
+    width: 75%;
+}
+
+#author {
+    border: 1px solid grey;
+    border-bottom: none;
+    padding: 5px;
+}
+
+#quote {
+    border: 1px solid grey;
+    padding: 5px;
+    height: 75px;
+}
+
+#btn {
+    margin-top: 1em;
+    height: 35px;
+    border-radius: none;
+}
